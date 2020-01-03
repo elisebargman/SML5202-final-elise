@@ -26,7 +26,7 @@ My name is Elise, I'm an associate student from the United States studying abroa
 
 <h1>Section 3</h1>
 
-<p>Three of my favorite things:</p>
+<p>3 of my favorite things:</p>
 <ol>
   <li>Raspberries</li>
   <li>Mamma Mia</li>
